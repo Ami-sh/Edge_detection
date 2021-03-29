@@ -9,4 +9,5 @@ This is the flow of code :-
 Go through the following links, the algorithms are very well explained in these sites:- 
 
 https://automaticaddison.com/how-the-sobel-operator-works/
+
 https://cse442-17f.github.io/Sobel-Laplacian-and-Canny-Edge-Detection-Algorithms/
